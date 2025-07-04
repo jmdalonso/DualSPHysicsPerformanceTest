@@ -14,7 +14,7 @@ This benchmarking framework and the relative performance values are based on the
 
 # Latest GPU Benchmark Comparison
 
-The following graph shows the latest comparative performance evaluation of NVIDIA GPUs, ranging from Tesla K20 to the H100. The results are presented as speedup relative to an Intel Core i7-8700K CPU with 12 execution threads (see more details in <a href="https://rdcu.be/chIPC" target="_blank">Domínguez et al. (2022)</a>).
+The following graph shows the latest comparative performance evaluation of NVIDIA GPU cards. The results are presented as speedup relative to Tesla K20 (further details of the test case in <a href="https://rdcu.be/chIPC" target="_blank">Domínguez et al. (2022)</a>).
 These tests have been carried out using the benchmarking scripts included in this repository.
 <h1 align="center">
   <img src="DS_performance_GPUs_250404.png" alt="Performance results" width="600">

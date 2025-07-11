@@ -1,0 +1,3 @@
+Date....: 08-07-2025
+Compiler: Microsoft Visual Studio Community 2022 Versión 17.3.5
+CUDA....: 11.7 (compute_50,sm_50;compute_61,sm_61;compute_70,sm_70;compute_80,sm_80;compute_86,sm_86)

@@ -19,4 +19,4 @@ ${gen} ${dircase}/${case}_13M ${dircase}/z${case}_13M
 rm ${dircase}/*_hdp_Actual.vtk
 rm ${dircase}/*_Actual.vtk
 
-@echo --- DONE! ---
+echo --- DONE! ---

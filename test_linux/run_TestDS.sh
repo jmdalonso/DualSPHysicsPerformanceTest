@@ -2,7 +2,7 @@
 
 flog=z_TestResults.csv
 
-vexe=_linux64
+vexe=Amd_linux64
 casedir=_DataCases_Ds5Test
 
 # opt="-symplectic -ddt:3 -cellmode:h -tmax:0.001"
